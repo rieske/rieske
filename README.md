@@ -3,7 +3,7 @@ I am a programmer with over 12 years of experience in various roles and various 
 I empower teams by automating the delivery processes and establishing automated testing practices that ensure smooth, frequent and fast releases.
 I have done this from scratch in fresh startups and migrated manual processes to automated continuous delivery in established organizations.
 
-I have strong interest in developer tooling and I love to tinker with the build and delivery processes and tools.
+I have strong interest in developer tooling and I love to tinker with and improve the build and delivery processes and tools.
 
 Having worked directly on the Gradle build tool, I am able to troubleshoot Gradle-specific build problems, improve and modernize existing builds, recommend or implement strategies for managing many and/or complex builds, or migrate builds from other build tools to Gradle.
 
