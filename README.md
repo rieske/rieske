@@ -1,4 +1,4 @@
-I am a programmer with over 12 years of experience in various roles and various industries.
+I am a programmer with over 14 years of experience in various roles and various industries.
 
 I empower teams by automating the delivery processes and establishing automated testing practices that ensure smooth, frequent and fast releases.
 I implemented continuous delivery processes and tooling from scratch in fresh startups and migrated manual processes to automated continuous delivery in established organizations.
